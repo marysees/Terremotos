@@ -1,4 +1,8 @@
 package com.example.tarde.terremotos;
+/*pantalla inicial: fecha, filtror por intensidad del terremoto, boton buscar
+* */
+
+
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;

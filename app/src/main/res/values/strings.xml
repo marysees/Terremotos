@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Terremotos</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="vistaT">Vista de Terremotos</string>
     <string name="action_settings">Settings</string>
 
 </resources>
