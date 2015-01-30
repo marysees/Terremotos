@@ -4,5 +4,20 @@
     <string name="app_name">Terremotos</string>
     <string name="vistaT">Vista de Terremotos</string>
     <string name="action_settings">Settings</string>
+    <string-array name="Escala">
+        <item>Intensidad I</item>
+        <item>Intensidad II</item>
+        <item>Intensidad III</item>
+        <item>Intensidad IV</item>
+        <item>Intensidad V</item>
+        <item>Intensidad VI</item>
+        <item>Intensidad VII</item>
+        <item>Intensidad VIII</item>
+        <item>Intensidad IX</item>
+        <item>Intensidad X</item>
+        <item>Intensidad XI</item>
+        <item>Intensidad XII</item>
+    </string-array>
+
 
 </resources>
