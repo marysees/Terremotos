@@ -9,21 +9,17 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/tvVista"
-        style="@style/AppTheme"
-        android:clickable="true"
         android:textColor="#ff1c30ff"
-        android:width="@dimen/abc_text_size_title_material"
-        android:gravity="center_horizontal" />
+        android:gravity="center_horizontal|top"
+        />
 
 
-    <DatePicker
-        android:layout_width="50dp"
-        android:layout_height="50dp"
-        android:id="@+id/datePicker"
+    <CalendarView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/calendarView"
         android:layout_below="@+id/tvVista"
-        android:layout_centerHorizontal="true"
-        android:spinnersShown="true"
-        android:calendarViewShown="true" />
+        android:layout_marginTop="31dp" />
 
     <Spinner
         android:layout_width="wrap_content"
